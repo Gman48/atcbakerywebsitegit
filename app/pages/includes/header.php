@@ -38,7 +38,7 @@
             </button>
             <div class="collapse navbar-collapse nav-buttons" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <!-- <li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link" href="<?=ROOT?>">Home</a>
                     </li>
                     <li class="nav-item">
@@ -55,7 +55,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?=ROOT?>/#cta">Order</a>
-                    </li> -->
+                    </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="<?=ROOT?>/admin">Admin</a>
                     </li> -->
