@@ -47,9 +47,9 @@
                     <li class="nav-item"> 
                         <a class="nav-link" href="<?=ROOT?>/#events">Events</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="<?=ROOT?>/event_gallery">Gallery</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="<?=ROOT?>/about">About Us</a>
                     </li>
