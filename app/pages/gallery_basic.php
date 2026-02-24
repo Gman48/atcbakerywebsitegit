@@ -6,30 +6,30 @@
 
 <section class="event-grid-container">
     <div class="event-item w-2">
-        <h1 class="text">Heading</h1>
+        <h1 class="text">Dog Show</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/Android.png" alt="">
+            <img src="<?=ROOT?>/assets/images/Dog_Show_2.jpg" alt="">
         </div>
     </div>
 
     <div class="event-item">
         <h1 class="text">Heading</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/02.jpg" alt="">
+            <img src="<?=ROOT?>/assets/images/Lemon_Treats2.JPG" alt="">
         </div>
     </div>
 
     <div class="event-item">
         <h1 class="text">Heading</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/03.jpg" alt="">
+            <img src="<?=ROOT?>/assets/images/AirplaneTakeHomes.JPG" alt="">
         </div>
     </div>
 
     <div class="event-item w-2">
         <h1 class="text">Heading</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/04.jpg" alt="">
+            <img src="<?=ROOT?>/assets/images/img.jpg" alt="">
         </div>
     </div>
 
