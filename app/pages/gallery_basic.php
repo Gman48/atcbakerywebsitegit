@@ -26,6 +26,13 @@
         </div>
     </div>
 
+    <div class="event-item w-2">
+        <h1 class="text">Seasons Christmas Show International Centre</h1>
+        <div class="image">
+            <img src="<?=ROOT?>/assets/images/Seasons_Christmas_Show_International_Centre.jpg" alt="ORC image">
+        </div>
+    </div>
+
     <div class="event-item grid-col-span-2">
         <h1 class="text">Mom Market Small Arms Inspection Building</h1>
         <div class="image">
