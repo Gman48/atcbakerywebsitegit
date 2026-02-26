@@ -15,14 +15,14 @@
     <div class="event-item">
         <h1 class="text">Toronto Premium Outlets</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/TorontoPremiumOutlets.JPG" alt="Toronto Premium image">
+            <img src="<?=ROOT?>/assets/images/Toronto_Premium_Outlets.JPG" alt="Toronto Premium image">
         </div>
     </div>
 
     <div class="event-item">
         <h1 class="text">Seasons Christmas Show International Centre</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/SeasonsChristmasShowInternationalCentre.JPG" alt="Intl Centre image">
+            <img src="<?=ROOT?>/assets/images/Seasons_Christmas_Show_International_Centre.JPG" alt="Intl Centre image">
         </div>
     </div>
 
