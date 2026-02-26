@@ -43,14 +43,14 @@
     <div class="event-item w-3">
         <h1 class="text">Heading</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/Toronto_Premium_Outlets.jpg" alt="TPO image">
+            <img src="<?=ROOT?>/assets/images/pawpkin.jpg" alt="TPO image">
         </div>
     </div>
 
     <div class="event-item">
         <h1 class="text">Heading</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/Seasons_Christmas_Show_International_Centre.jpg" alt="Seasons_image">
+            <img src="<?=ROOT?>/assets/images/Superbowl Tray.jpg" alt="Seasons_image">
         </div>
     </div>
 
