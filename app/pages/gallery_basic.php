@@ -19,7 +19,7 @@
         </div>
     </div>
 
-    <div class="event-item w-2">
+    <div class="event-item w-3 h-2">
         <h1 class="text">Seasons Christmas Show International Centre</h1>
         <div class="image">
             <img src="<?=ROOT?>/assets/images/Seasons_Christmas_Show_International_Centre.jpg" alt="Intl Centre image">
