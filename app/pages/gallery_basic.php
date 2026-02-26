@@ -26,7 +26,7 @@
         </div>
     </div>
 
-    <div class="event-item grid-col-span-4">
+    <div class="event-item grid-col-span-3">
         <h1 class="text">Ontario Racquet Club</h1>
         <div class="image">
             <img src="<?=ROOT?>/assets/images/ORC.jpg" alt="ORC image">
