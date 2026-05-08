@@ -782,7 +782,7 @@ footer .social-icons {
 footer .social-icons i {
   color: var(--main);
   padding: .5rem;
-  font-size: 1.5rem;
+  font-size: 5rem;
 }
 footer .social-icons i:hover {
   color: black;
@@ -800,7 +800,7 @@ footer .container .col:nth-child(1) p {
 footer .social-icons .fa {
   margin-right: 20px;
   cursor: pointer;
-  font-size: 30px;
+  font-size: 80px;
 }
 ul.social-icons {
   flex-direction: row;
