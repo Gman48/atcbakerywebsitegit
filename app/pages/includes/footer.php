@@ -6,12 +6,12 @@
 				<img src="<?=ROOT?>/assets/images/logo_final.png">
 			</div>
 			<p class="text-center">Around The Corner makes the most delicious, hand made treats you have ever tasted.  Try some today, you won't be disappointed.</p>
-			<!-- <ul class="social-icons"> 
+			<ul class="social-icons"> 
 				<li><div class="fa fa-facebook"></div></li>
 				<li><div class="fa fa-twitter"></div></li>
 				<li><div class="fa fa-github"></div></li>
 				<li><div class="fa fa-youtube"></div></li>
-			</ul> -->
+			</ul>
 		</div>
 
 		<!-- <div data-aos="zoom-in" class="col" class="company"> 
