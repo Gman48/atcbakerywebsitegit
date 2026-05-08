@@ -9,13 +9,15 @@
 			<ul class="social-icons"> 
 			<p class="text-center">Around The Corner social Links</p>
 				<li>
-					<a class="fa fa-facebook" href="https://www.facebook.com/profile.php?id=61565711605843&sk=about">Facebook</a>
-				<div class="fa fa-facebook"></div></li>
+					<a class="fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61565711605843&sk=about"></a>
+				<!-- <div class="fa fa-facebook"></div>-->
+				</li> 
 				<li>
-					<a class="fa fa-twitter" href="https://www.instagram.com/_aroundthecornerbakery/">Twitter</a>
-				<div class="fa fa-twitter"></div></li>
-				<li><div class="fa fa-github"></div></li>
-				<li><div class="fa fa-youtube"></div></li>
+					<a class="fa-brands fa-instagram" href="https://www.instagram.com/_aroundthecornerbakery/"></a>
+				<div class="fa fa-twitter"></div>
+				</li>
+				<!-- <li><div class="fa fa-github"></div></li>
+				<li><div class="fa fa-youtube"></div></li> -->
 			</ul>
 		</div>
 
