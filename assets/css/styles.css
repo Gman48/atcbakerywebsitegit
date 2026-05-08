@@ -797,7 +797,7 @@ footer ul li {
 footer .container .col:nth-child(1) p {
   margin: 20px auto;
 }
-footer .social-icons .fa {
+footer .social-icons .fa-brands {
   margin-right: 20px;
   cursor: pointer;
   font-size: 80px;
