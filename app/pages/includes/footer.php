@@ -7,8 +7,12 @@
 			</div>
 			<p class="text-center">Around The Corner makes the most delicious, hand made treats you have ever tasted.  Try some today, you won't be disappointed.</p>
 			<ul class="social-icons"> 
-				<li><div class="fa fa-facebook"></div></li>
-				<li><div class="fa fa-twitter"></div></li>
+				<li>
+					<a class="fa fa-facebook" href="https://www.facebook.com/profile.php?id=61565711605843&sk=about">Facebook</a>
+				<div class="fa fa-facebook"></div></li>
+				<li>
+					<a class="fa fa-twitter" href="https://www.instagram.com/_aroundthecornerbakery/">Twitter</a>
+				<div class="fa fa-twitter"></div></li>
 				<li><div class="fa fa-github"></div></li>
 				<li><div class="fa fa-youtube"></div></li>
 			</ul>
