@@ -5,7 +5,7 @@
 			<div class="logo">
 				<img src="<?=ROOT?>/assets/images/logo_final.png">
 			</div>
-			<p class="text-center">Around The Corner makes the most delicious, hand made treats you have ever tasted. why dont you Try some today, you won't be disappointed.</p>
+			<p class="text-center">Around The Corner makes the most delicious, hand made treats you have ever tasted. Try some today, you won't be disappointed.</p>
 			<ul class="social-icons"> 
 			<p class="text-center">Around The Corner social Links</p>
 				<li>
