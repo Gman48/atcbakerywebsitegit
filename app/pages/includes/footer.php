@@ -7,6 +7,7 @@
 			</div>
 			<p class="text-center">Around The Corner makes the most delicious, hand made treats you have ever tasted.  Try some today, you won't be disappointed.</p>
 			<ul class="social-icons"> 
+			<p class="text-center">Around The Corner social Links</p>
 				<li>
 					<a class="fa fa-facebook" href="https://www.facebook.com/profile.php?id=61565711605843&sk=about">Facebook</a>
 				<div class="fa fa-facebook"></div></li>
