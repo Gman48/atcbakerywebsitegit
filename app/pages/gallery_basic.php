@@ -15,21 +15,21 @@
     <div class="event-item">
         <h1 class="text">Toronto Premium Outlets</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/Toronto_Premium_Outlets.jpg" alt="Toronto Premium image">
+            <img src="<?=ROOT?>/assets/images/TorontoPremiumOutlets.jpg" alt="Toronto Premium image">
         </div>
     </div>
 
     <div class="event-item">
         <h1 class="text">Ontario Racquet Club</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/ORC.jpg" alt="ORC image">
+            <img src="<?=ROOT?>/assets/images/Ontario Raquet Club Christmas Market.jpeg" alt="ORC image">
         </div>
     </div>
 
     <div class="event-item w-2">
         <h1 class="text">Seasons Christmas Show International Centre</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/Seasons_Christmas_Show_International_Centre.jpg" alt="ORC image">
+            <img src="<?=ROOT?>/assets/images/Seasons Christmas Show.jpeg" alt="ORC image">
         </div>
     </div>
 
@@ -40,19 +40,19 @@
         </div>
     </div>
 
-    <!-- <div class="event-item w-3">
-        <h1 class="text">Heading</h1>
+    <div class="event-item w-3">
+        <h1 class="text">Peterbgh Dog Show</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/pawpkin.jpg" alt="TPO image">
+            <img src="<?=ROOT?>/assets/images/Peterborough Dog Talent Show Jan 27, 2024.jpg" alt="TPO image">
         </div>
     </div>
 
     <div class="event-item">
-        <h1 class="text">Heading</h1>
+        <h1 class="text">Blackhorse Village Players Market</h1>
         <div class="image">
-            <img src="<?=ROOT?>/assets/images/Superbowl Tray.jpg" alt="Seasons_image">
+            <img src="<?=ROOT?>/assets/images/Blackhorse Village Players Market.jpeg" alt="Blackhorse_image">
         </div>
-    </div> -->
+    </div>
 
 </section>
 
