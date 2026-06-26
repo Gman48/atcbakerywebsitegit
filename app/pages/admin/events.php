@@ -144,7 +144,7 @@ if($action == 'delete')
 			<?php endif;?>
 
 			<label>Event details:</label>
-			<textarea rows="10" class="form-control my-1" name="details"><?=set_value('details')?></textarea>
+			<textarea rows="20" class="form-control my-1" name="details"><?=set_value('details')?></textarea>
 			<?php if(!empty($errors['details'])):?>
 				<small class="error"><?=$errors['details']?></small>
 			<?php endif;?>
@@ -198,7 +198,7 @@ if($action == 'delete')
 			<?php endif;?>
 
 			<label>Event details:</label>
-			<textarea rows="10" class="form-control my-1" name="details"> <?=esc($row['details'])?></textarea>
+			<textarea rows="20" class="form-control my-1" name="details"> <?=esc($row['details'])?></textarea>
 			<?php if(!empty($errors['details'])):?>
 				<small class="error"><?=$errors['details']?></small>
 			<?php endif;?>
