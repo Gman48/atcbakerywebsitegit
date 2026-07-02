@@ -21,24 +21,6 @@
 	<?php endif;?>
 </section>
 
-<!-- orders banner -->
-<section id="cta" class="container">
-<div class="cta-box" data-aos="zoom-out" aos-duration="2500">
-	<p>email <span class="order-pop">orders@atcbakery.ca</span> or call us at <span class="order-pop">289-325-4771</span></p>
-	<p> to place your order today!</p>
-	<p class="confirm">* Orders are not confirmed until you receive a reply from us. *</p>
-	<p class="confirm">* Orders over $50 require a 50% deposit at time of order. *</p>
-	<p class="confirm">** Allow 48 hours from time order is confirmed for fulfillment **</p>
-	<p class="confirm">*** All products may contain or  have come into contact with nuts ***</p>
-</div>
-</section>
-
-<!-- Tasty Tales Section -->
-
-<!-- NEW CAROUSEL -->
-<div class="testimonial-heading">Tasty Tales</div>
-<?php include ('includes/tales_carousel.php'); ?>
-
 <!-- Events -->
 <section class="announcement" id="events"> 
     <div data-aos="flip-down" class="ctn-wrapper">
@@ -62,5 +44,26 @@
     	</div>
     </div>
 </section>
+
+<!-- Tasty Tales Section -->
+
+<!-- NEW CAROUSEL -->
+<div class="testimonial-heading">Tasty Tales</div>
+<?php include ('includes/tales_carousel.php'); ?>
+
+
+<!-- ORDERS BANNER -->
+<section id="cta" class="container">
+<div class="cta-box" data-aos="zoom-out" aos-duration="2500">
+	<p>email <span class="order-pop">orders@atcbakery.ca</span> or call us at <span class="order-pop">289-325-4771</span></p>
+	<p> to place your order today!</p>
+	<p class="confirm">* Orders are not confirmed until you receive a reply from us. *</p>
+	<p class="confirm">* Orders over $50 require a 50% deposit at time of order. *</p>
+	<p class="confirm">** Allow 48 hours from time order is confirmed for fulfillment **</p>
+	<p class="confirm">*** All products may contain or  have come into contact with nuts ***</p>
+</div>
+</section>
+
+
 
 <?php require page('includes/footer');?>
