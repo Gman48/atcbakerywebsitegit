@@ -6,21 +6,6 @@
     <h1>It should be frosted in no time</h1>
 </div> -->
 
-<!-- Featured Products Section -->
-<div id="favourites" class="sec-title">Featured Products</div>
-<section class="content">
-	<?php 
-		$rows = db_query("select * from products where featured = 1 order by id asc limit 3");
-	?>
-	<?php if(!empty($rows)):?>
-		<?php foreach($rows as $row):?>
-			<?php include page('includes/product_card')?> 
-		<?php endforeach;?>
-	<?php else:?>
-		<div class="m-2">No featured products found</div>
-	<?php endif;?>
-</section>
-
 <!-- Events -->
 <section class="announcement" id="events"> 
     <div data-aos="flip-down" class="ctn-wrapper">
@@ -44,6 +29,22 @@
     	</div>
     </div>
 </section>
+
+<!-- Featured Products Section -->
+<div id="favourites" class="sec-title">Featured Products</div>
+<section class="content">
+	<?php 
+		$rows = db_query("select * from products where featured = 1 order by id asc limit 3");
+	?>
+	<?php if(!empty($rows)):?>
+		<?php foreach($rows as $row):?>
+			<?php include page('includes/product_card')?> 
+		<?php endforeach;?>
+	<?php else:?>
+		<div class="m-2">No featured products found</div>
+	<?php endif;?>
+</section>
+
 
 <!-- Tasty Tales Section -->
 

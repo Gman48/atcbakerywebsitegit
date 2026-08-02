@@ -8,7 +8,7 @@
 
 <div class="about-page-container">
     <section class="about">
-        <!-- <img class="baker-img" src="<?=ROOT?>/assets/images/woman_face.png" alt=""> -->
+        <img class="baker-img" src="<?=ROOT?>/assets/uploads/AROUND THE CORNER LOG0  final.png" alt="">
         <div class="about-content">
             <h2>Audrey Murphy</h2>
             <p>I’m a mother of one, or rather, I gave birth to one although I tell people I have the equivalent of three children.  I am married after all.  😊  After more than 30 years in the retail industry, I retired to a quieter, simpler life or so I thought.  That lasted all of three weeks (insert face palm here!).  I can’t sit still and after so many decades of what seemed to be running in place, I went to the one joy that gave me a sense of accomplishment – baking.  The one place that I could start my day with nothing and have something to show for it by the time I was done.  How it all started……</p>
