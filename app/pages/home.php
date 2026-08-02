@@ -61,7 +61,7 @@
 	<p class="confirm">* Orders are not confirmed until you receive a reply from us. *</p>
 	<p class="confirm">* Orders over $50 require a 50% deposit at time of order. *</p>
 	<p class="confirm">** Allow 48 hours from time order is confirmed for fulfillment **</p>
-	<p class="confirm">*** All products may contain or  have come into contact with nuts ***</p>
+	<p class="confirm">*** All products may contain or have come into contact with allergens ***</p>
 </div>
 </section>
 
