@@ -33,6 +33,19 @@
         <div class="container">
             <img class="logo" src="<?=ROOT?>/assets/images/logo_final.png">
             <h2 class="brand">Around The Corner Bakery</h2>
+
+<!-- This part adds socials to header -->
+            <ul class="social-icons"> 
+				<li>
+					<a class="fa-brands fa-facebook" href="https://www.facebook.com/profile.php?id=61565711605843&sk=about"></a>
+				</li> 
+				<li>
+					<a class="fa-brands fa-instagram" href="https://www.instagram.com/_aroundthecornerbakery/"></a>
+				</li>
+				<!-- <li><div class="fa fa-github"></div></li>
+				<li><div class="fa fa-youtube"></div></li> -->
+			</ul>
+
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
