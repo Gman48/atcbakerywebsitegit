@@ -5,9 +5,33 @@
       <div class="swiper-wrapper">
 
 <?php 
-	$query = "select * from tales";
+	$query = "select * from events";
 	$rows = db_query($query);
 ?>
+
+<!-- Events (original display) -->
+<section class="announcement" id="events"> 
+    <div data-aos="flip-down" class="ctn-wrapper">
+    	<div class="text">
+
+		<?php 
+			$slug = 1;
+			$query = "select * from events where active = :active limit 1";
+			$row = db_query_one($query,['active'=>$slug]);
+		?>
+		<?php if(!empty($row)):?>
+			<h1>Come visit us at - </h1>
+			<h1><?=esc($row['name'])?></h1>
+			<p>We will be at the <?=esc($row['name'])?> located in <?=esc($row['location'])?> (<?=esc($row['address'])?>)</p>
+			<p><?=esc($row['date'])?> <?=esc($row['time'])?></p>
+			<p><?=esc($row['details'])?></p></p>
+		<?php else:?>
+			<h1>Come visit us at - </h1>
+			<p>Throughout the year we will be attending many local fairs and shows.  Keep an eye here to see where we will be next and be sure to drop by and take home some of your favourite treats.</p>
+		<?php endif;?>
+    	</div>
+    </div>
+</section>
 
 <?php if(!empty($rows)):?>
 	<?php foreach($rows as $row):?>
